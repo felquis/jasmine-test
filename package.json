@@ -1,0 +1,15 @@
+{
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp spec"
+  },
+  "author": "who knows",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine-phantom": "^3.0.0"
+  }
+}
